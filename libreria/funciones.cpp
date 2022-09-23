@@ -2,7 +2,12 @@
 
 float distancia(float x1, float x2, float y1, float y2)
 {
-	float x1, x2, y1, y2;
+	float *x1, *x2, *y1, *y2;
+	float num1, num2, num3, num4;
+	x1 = &num1;
+	x2 = &num2;
+	x3 = &num3;
+	x4 = &num4;
 	float distancia = 0;
 		
 	cout << "Ingrese coordenara x1: ";
