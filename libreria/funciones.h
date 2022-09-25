@@ -3,4 +3,4 @@
 #include <iostream>
 #include <math.h>
 
-float distancia(float x1, float x2, float y1, float y2);
+int suma_valores(int* array, int n);
