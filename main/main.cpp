@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-    int n = 0, i = 0;
+    int n = 0, i=0 ;
 
     cout << "Ingrese cantidad de elementos : " << endl;
     cin >> n;
