@@ -13,7 +13,7 @@ Sino, editar archivo `CMakeLists.txt`, y reemplazar Project_Name por el nombre d
 ```text
 cmake_minimum_required(VERSION 3.10)
 
-project(Project_Name CXX)
+project(GRUPO02 CXX)
 set(CMAKE_CXX_STANDARD 17)
 
 enable_testing()
